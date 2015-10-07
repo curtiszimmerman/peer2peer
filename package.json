@@ -1,0 +1,24 @@
+{
+  "name": "peer2peer",
+  "version": "0.0.0",
+  "description": "Just what it says on the tin: A generic peer-to-peer networking drop-in.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/curtiszimmerman/peer2peer.git"
+  },
+  "keywords": [
+    "p2p",
+    "peer",
+    "network"
+  ],
+  "author": "Curtis Zimmerman <software@curtisz.com> (http://curtisz.com/)",
+  "license": "AGPLv3.0",
+  "bugs": {
+    "url": "https://github.com/curtiszimmerman/peer2peer/issues"
+  },
+  "homepage": "https://github.com/curtiszimmerman/peer2peer"
+}
